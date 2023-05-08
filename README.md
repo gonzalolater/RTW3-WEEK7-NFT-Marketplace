@@ -19,3 +19,7 @@ finish on challenge - https://github.com/gonzalolater/Challenge-Loty.io
 
 ![Built a full stack dapp for buying   selling NFTs](https://user-images.githubusercontent.com/42863568/236948942-a48402fe-8d3a-46c9-99b1-da4a54b39f2a.jpeg)
 https://testnets.opensea.io/assets/goerli/0xf4910c763ed4e47a585e2d34baa9a4b611ae448c/5650374730150659443715928048758275365410007916752074954041965401641291087873
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+# Deploy
+https://testnets.opensea.io/collection/nftmarketplace-585
