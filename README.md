@@ -9,3 +9,7 @@ cd NFT-Marketplace-Tutorial
 npm install
 npm start
 ```
+
+------------------------------------------------------------------------------------------------------------------------------------------------------------------
+
+finish on challenge - https://github.com/gonzalolater/Challenge-Loty.io
